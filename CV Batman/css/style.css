@@ -1,0 +1,67 @@
+body {
+    background-color: white;
+}
+
+header {
+    background-color: #E6E6E6;
+    text-align: center;
+}
+
+/* TITULOS GENERAL */
+h1, h2 {
+    background-color: #C4C4C4;
+    font-family: 'Times New Roman', serif;
+    color: #005677;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+/* TITULO PRINCIPAL */
+h1 {
+    line-height: 30px;
+    font-weight: 700;
+    font-size: 35px;
+    background-color: #C4C4C4;
+    font-feature-settings: 'cpsp' on;
+    padding: 9px
+}
+/* TITULOS Secundarios */
+h2 {
+    display: block;
+    font-style: normal;
+    font-size: 20px;
+    margin-left: 225px;
+    margin-right: 174px;
+    line-height: 30px;
+    font-feature-settings: 'cpsp' on;
+    
+}
+/* Datos personales */
+#datospersonales {
+    margin-left: 225px;
+    margin-right: 174px;
+}
+#formacionacademica {
+    padding-left: 274px;
+}
+#experiencialaboral {
+    padding-left: 274px;
+}
+main {
+    margin-right: 174px;
+    padding-left: 225px;
+}
+
+footer {
+    background-color:#005677;
+    text-align: center;
+    color:white;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 45px;
+    letter-spacing: 0.2em;
+        
+}
