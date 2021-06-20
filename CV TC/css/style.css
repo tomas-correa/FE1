@@ -1,0 +1,15 @@
+
+header {
+    
+    background-image: url(../img/fondo-tecnology.jpg);
+    background-size: cover;
+    height: 250px;
+
+}
+    #fotocv {
+        
+        max-height: 70%;
+        max-width: 28%;
+           
+}
+

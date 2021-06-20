@@ -1,0 +1,25 @@
+body{
+    background: #ffffff;
+    font-size: 16px;
+}
+
+section.banner {
+    background-image: url(../Img/lemon-pie\ 2@2x.png);
+    background-size: cover;
+        height: 343px;
+    
+}
+
+h1 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 18px;
+}

@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    font-family: roboto, sans-serif;
+}
+#menucitos>li {
+    text-align: right;
+    
+    
+
+}
+
+#linea {
+    background-color: #222222;
+    color: #F3F3F3;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 10px;
+    line-height: 12px;
+    
+}
+
+
+#seccion-banner {
+    background-image: url(../img/bowl-and-pet-daities-on-green-background\ 1.png);
+    height: 409px;
+}
