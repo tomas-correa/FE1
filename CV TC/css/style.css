@@ -35,7 +35,7 @@ header {
             right: 50px;
             font-size: 20px;
             font-family: 'fjalla one', sans-serif;
-            margin: auto;
+            
     }
 /***********************MAIN************************ */
 
@@ -45,7 +45,7 @@ main{
     color: #cbcfd4;
     font-family: 'Oswald', sans-serif;
     font-size: 20px;
-    margin: auto;
+    
     
 }
     h2{
@@ -59,6 +59,6 @@ footer{
     text-align: center;
     background-color: #313233;
     color: #cbcfd4;
-    margin: auto
+    
 
 }
