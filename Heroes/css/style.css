@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    font-family: 'roboto', sans-serif;
+}
+header{
+    width: 1024px;
+}
+#descuentos {
+    background-color: #1CD1B0;
+    
+    font-size: 15px;
+    font-weight: 400;
+    padding: 10px;
+    margin-bottom: 0;
+    
+}
+h1{
+    box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
+    background-color: #00669F;
+    
+    font-size: 40px;
+    padding: 28px;
+    margin-top: 0;
+}
+main{
+  width: 1024px;
+    
+    
+}
+
+.heroe{
+    background-color: #F3F3F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    color: #333333;
+    position: relative;
+    font-size: 16px;
+    font-weight: 400;
+    height: 529px;
+    width: 300px;
+    display: inline-block;
+    line-height: 19px;
+    margin-left: 30px;
+    margin-top: 152px;
+    margin-bottom: 193px;
+    
+    
+
+}
+.fotoheroe {
+    border-radius: 50%;
+    position: absolute;
+    top: 128px;
+    left: 90px;
+
+}
+.corazoncito {
+    position: absolute;
+    top: 15.88px;
+    left: 21px;
+}
+.textoheroe {
+    padding-left: 16px;
+    padding-top: 119px;
+    padding-bottom: 104px;
+    padding-right: 17px;
+    
+    
+}
+button{    
+    
+    background-color: #00669F;
+    color: white;
+    position: absolute;
+    left: 85px;
+    bottom: 18px;
+    width: 128.78px;
+    height: 48.52px;
+}
+
+footer{
+    background-color: #00669F;
+    color: white;
+    font-size: 16px;
+    line-height: 19px;    
+    position: absolute;
+    /* padding-left: 16px;     */
+    top: 972px;
+    width: 1024px;
+}
+#derechos {
+        padding-left: 16px;
+}
