@@ -52,6 +52,7 @@ main{
     position: absolute;
     top: 128px;
     left: 90px;
+    
 
 }
 .corazoncito {
@@ -59,9 +60,17 @@ main{
     top: 15.88px;
     left: 21px;
 }
+h3{
+    
+    font-size: 30px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-top: 74px;
+    text-align: center;
+    padding-bottom: 0px;
+}
 .textoheroe {
     padding-left: 16px;
-    padding-top: 119px;
     padding-bottom: 104px;
     padding-right: 17px;
     
