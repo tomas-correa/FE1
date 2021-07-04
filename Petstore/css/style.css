@@ -5,26 +5,45 @@
 
 header {
     font-family: roboto, sans-serif;
-}
-#menucitos>li {
-    text-align: right;
     
-    
-
 }
 
-#linea {
-    background-color: #222222;
+#linea{
+    background: #222222;
+    display: flex; 
+    justify-content: space-around;
+    gap: 300px;
+    align-items: center;
     color: #F3F3F3;
     font-weight: normal;
     font-style: normal;
     font-size: 10px;
     line-height: 12px;
     
+
 }
 
+#linea ul{
+    display: flex;
+}
+#menucitos{
+    flex-direction: row;
+    gap: 20px;
+}
+    
+    
+    
+#headerbajo{
+    background-color: #F0A83E;
+    display: flex;
+}
+
+#menuprincipal{
+    
+}
 
 #seccion-banner {
     background-image: url(../img/bowl-and-pet-daities-on-green-background\ 1.png);
     height: 409px;
+    background-size: cover;
 }

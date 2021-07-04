@@ -1,10 +1,13 @@
+*{
+    text-decoration: none;
+}
 
 body
 {
     background-image: url(../img/vaporwave-nawpic-20.jpg);
     background-size: cover
 }
-
+/* ++++++++++++++++++++++++++++++HEADER+++++++++++ */
 header{
     background-color: rgba(63, 57, 62, 0.3);
     text-align: center;
@@ -13,44 +16,57 @@ header{
     letter-spacing: 8px;
 
 }
-    #cabeza {
+#cabeza {
         max-height: 200px;
         border-radius: 50%;
     }
 
-    h1{
+h1{
         font-size: 35px;
     }
 
-.buttons {
-    position: relative;
-    
-    
-    height: 500px;
-    letter-spacing: 100px;
-    line-height: 150px;
-    padding-left: 85px;
+/* MAINNNNNNNNNNNNNNNNNNNNNNNN */
 
+/* main{
+    display: flex;
+    
+} */
+
+.buttons {
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    height: 500px;
+    padding-top: 40px;
     
 
 }
-.textoboton{
+
+.boton{
     box-shadow: 5px 10px black;
     border-radius: 30px;
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    color:  #ede4ec;
     background-color: rgb(242, 99, 226, 100%);
-    text-transform:uppercase;
-    width: 15%;
+    width: 10%;
     font-size: 20px;
     padding: 10px;
+    
+    
+}
+
+.textoboton{
+        
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color:  #ede4ec;    
+    text-transform:uppercase;
+    
+    
     }
 
 .botbajos{
-    position: relative;
-    top: 200px;
-}
+        align-self: center;
+    }
 
 footer{
     background-color:rgb(242, 99, 226, 100%);

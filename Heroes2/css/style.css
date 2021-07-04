@@ -4,7 +4,7 @@
     font-family: 'roboto', sans-serif;
 }
 header{
-    width: 1024px;
+    width: 100vw;
     position: relative;
 }
 #descuentos {
@@ -26,7 +26,7 @@ h1{
     margin-top: 0;
 }
 main{
-  width: 1024px;
+  width: 100vw;
     
     
 }
@@ -45,7 +45,13 @@ main{
     margin-left: 30px;
     margin-top: 152px;
     margin-bottom: 193px;
-    
+} 
+ 
+.fondoheroe{
+
+    width: 214px;
+    height: 115px;
+      
     
 
 }
@@ -97,7 +103,7 @@ footer{
     position: absolute;
     /* padding-left: 16px;     */
     top: 972px;
-    width: 1024px;
+    width: 100vw;
 }
 #derechos {
         padding-left: 16px;
